@@ -1,0 +1,13 @@
+{
+  "ids": {
+    "Mobil": 5
+  },
+  "models": {
+    "Mobil": {
+      "1": "{\"id\":1,\"platnomor\":\"X123Y\",\"jumlahkursi\":\"4\",\"tipemobil\":\"honda-xyz\"}",
+      "2": "{\"id\":2,\"platnomor\":\"Y234Z\",\"jumlahkursi\":\"7\",\"tipemobil\":\"daihatsu-yxz\"}",
+      "3": "{\"id\":3,\"platnomor\":\"Z345W\",\"jumlahkursi\":\"5\",\"tipemobil\":\"suzuki-yxx\"}",
+      "4": "{\"id\":4,\"platnomor\":\"W456N\",\"jumlahkursi\":\"4\",\"tipemobil\":\"mitsubishi-xyz\"}"
+    }
+  }
+}

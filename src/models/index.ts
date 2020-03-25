@@ -1,0 +1,1 @@
+export * from './mobil.model';
